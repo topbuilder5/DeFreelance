@@ -86,3 +86,10 @@ const Navbar = () => {
 };
 
 export default Navbar; 
+
+{/* <button
+                  onClick={handleConnectWallet}
+                  className="inline-flex items-center px-4 py-2 border-none text-sm font-medium rounded-xl text-white bg-gradient-to-r from-yellow-400 to-orange-500 hover:from-yellow-500 hover:to-orange-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-500"
+                >
+                  Connect Wallet
+                </button> */}
